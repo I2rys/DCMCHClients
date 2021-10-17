@@ -8,7 +8,7 @@ Github:
 
 ## Usage
 1. Download [Java](https://www.java.com/en/) and install it then download [JD-GUI](http://java-decompiler.github.io/).
-2. Open JD-GUI(Double click on the file) and drag the Minecraft hack client java file there to decompile it or use WinRar.
+2. Open JD-GUI(Double click on the file) and drag the Minecraft hack client jar file there to decompile it or use WinRar.
 
 ## Decompiled/cleaned Minecraft hack clients here
 + Jigsaw - 1.8
@@ -29,7 +29,7 @@ Github:
 + SummerClient - Any versions
 
 ## Do you have any Minecraft hack client that you can't decompile or reverse engineer?
-Send it to my Discord I2rys#3048 and I'll try to reverse engineer it.
+Send it to my Discord I2rys#3048 and I will try to reverse engineer it.
 
 ## License
 MIT © I2rys
