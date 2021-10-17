@@ -1,5 +1,5 @@
 <h1 align="center">DCMCHClients</h1>
-<h4 align="center">Reliable & safe decompiled/cleaned Minecraft hack clients</h4>
+<h4 align="center">Reliable & safe deobfuscated/cleaned Minecraft hack clients</h4>
 
 ## Installation
 Github:
