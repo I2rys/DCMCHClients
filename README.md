@@ -31,5 +31,8 @@ Github:
 ## Do you have any Minecraft hack client that you can't deobfuscate or reverse engineer?
 Send it to my Discord I2rys#3048 and I will try to deobfuscate/reverse engineer it.
 
+## Note
+Do NOT place them in your Minecraft versions because they will not work due to the decompiling & deobfuscating including removing some garbage codes. They are meant to be analyze by developers.
+
 ## License
 MIT © I2rys
